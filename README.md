@@ -4,7 +4,7 @@ Operations are done on BGR data of BMP file, you may need to install Freeimages 
 
 
 Executed all programs on nVidia Jetson nano.
-You may need freeimage package, on Ubuntu you can istall by command 'sudo apt-get install libfreeimage3 libfreeimage-dev'
+You may need freeimage package, on Ubuntu you can install by command 'sudo apt-get install libfreeimage3 libfreeimage-dev'
 
 Steps to Execute
 
