@@ -8,6 +8,6 @@ You may need freeimage package, on Ubuntu you can istall by command 'sudo apt-ge
 
 Steps to Execute
 
-nvcc <program> -o <outputname> -lfreeimage
+nvcc program_name -o output_name -lfreeimage
 
 
